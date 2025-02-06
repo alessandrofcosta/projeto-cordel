@@ -1,2 +1,2 @@
 # projeto-cordel
- Site de poemas de Milton Cordel
+ Site de poemas de Milton Duarte
