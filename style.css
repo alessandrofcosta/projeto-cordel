@@ -55,6 +55,14 @@ pre {
     background-color: rgba(0, 0, 0, 0.541);
     color: white;
     width: 36vw;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.329);
+    text-shadow: 2px 2px 0px black;
+}
+
+#pre2, #pre5 {
+    box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.418);
 }
 
 #pre2 {
